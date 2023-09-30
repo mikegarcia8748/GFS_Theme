@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "GfsTheme"
 include(":app")
+include(":AppTheme")
